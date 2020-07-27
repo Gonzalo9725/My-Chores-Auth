@@ -9,3 +9,6 @@ This website was made for people who always find trouble organizing their daily 
 - React.js
 - Firebase Authentication
 - Bootstrap
+
+## DEPLOY 🚀
+You can enjoy the deploy on this [link](https://crud-react-61cf7.web.app/)
